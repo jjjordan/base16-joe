@@ -51,7 +51,7 @@
 =Include	$3b48e3
 =Define		$f996e2
 =TODO		$dddd13/$e0e0e0
-=Precondit	$f996e2
+=Precond	$f996e2
 
 =diff.AddLine	$0ed839/$e0e0e0
 =diff.ChgLine	$555555/$e0e0e0
@@ -59,7 +59,6 @@
 =diff.File	$e92f2f
 =diff.FileNew	$0ed839
 =diff.Hunk	$3b48e3
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	62
 =Define		212
 =TODO		184/188
-=Precondit	212
+=Precond	212
 
 =diff.AddLine	40/188
 =diff.ChgLine	240/188
@@ -119,5 +118,4 @@
 =diff.File	196
 =diff.FileNew	40
 =diff.Hunk	62
-
 
