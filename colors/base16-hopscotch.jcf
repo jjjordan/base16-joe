@@ -51,7 +51,7 @@
 =Include	$1290bf
 =Define		$c85e7c
 =TODO		$fdcc59/$433b42
-=Precondit	$c85e7c
+=Precond	$c85e7c
 
 =diff.AddLine	$8fc13e/$433b42
 =diff.ChgLine	$797379/$433b42
@@ -59,7 +59,6 @@
 =diff.File	$dd464c
 =diff.FileNew	$8fc13e
 =diff.Hunk	$1290bf
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	31
 =Define		168
 =TODO		221/237
-=Precondit	168
+=Precond	168
 
 =diff.AddLine	106/237
 =diff.ChgLine	243/237
@@ -119,5 +118,4 @@
 =diff.File	167
 =diff.FileNew	106
 =diff.Hunk	31
-
 

@@ -51,7 +51,7 @@
 =Include	$0e5a94
 =Define		$b31e8d
 =TODO		$f8ca12/$202020
-=Precondit	$b31e8d
+=Precond	$b31e8d
 
 =diff.AddLine	$37b349/$202020
 =diff.ChgLine	$505050/$202020
@@ -59,7 +59,6 @@
 =diff.File	$eb008a
 =diff.FileNew	$37b349
 =diff.Hunk	$0e5a94
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	25
 =Define		126
 =TODO		220/234
-=Precondit	126
+=Precond	126
 
 =diff.AddLine	71/234
 =diff.ChgLine	239/234
@@ -119,5 +118,4 @@
 =diff.File	162
 =diff.FileNew	71
 =diff.Hunk	25
-
 

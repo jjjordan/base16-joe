@@ -1,5 +1,5 @@
 
-# base16 Atelier Heath by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Heath Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 .colors *
 
@@ -51,7 +51,7 @@
 =Include	$516aec
 =Define		$7b59c0
 =TODO		$bb8a35/$d8cad8
-=Precondit	$7b59c0
+=Precond	$7b59c0
 
 =diff.AddLine	$918b3b/$d8cad8
 =diff.ChgLine	$9e8f9e/$d8cad8
@@ -59,7 +59,6 @@
 =diff.File	$ca402b
 =diff.FileNew	$918b3b
 =diff.Hunk	$516aec
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	62
 =Define		97
 =TODO		136/189
-=Precondit	97
+=Precond	97
 
 =diff.AddLine	100/189
 =diff.ChgLine	139/189
@@ -119,5 +118,4 @@
 =diff.File	160
 =diff.FileNew	100
 =diff.Hunk	62
-
 

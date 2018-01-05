@@ -1,5 +1,5 @@
 
-# base16 Atelier Savanna by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 .colors *
 
@@ -51,7 +51,7 @@
 =Include	$478c90
 =Define		$55859b
 =TODO		$a07e3b/$dfe7e2
-=Precondit	$55859b
+=Precond	$55859b
 
 =diff.AddLine	$489963/$dfe7e2
 =diff.ChgLine	$78877d/$dfe7e2
@@ -59,7 +59,6 @@
 =diff.File	$b16139
 =diff.FileNew	$489963
 =diff.Hunk	$478c90
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	66
 =Define		31
 =TODO		136/254
-=Precondit	31
+=Precond	31
 
 =diff.AddLine	65/254
 =diff.ChgLine	66/254
@@ -119,5 +118,4 @@
 =diff.File	130
 =diff.FileNew	65
 =diff.Hunk	66
-
 

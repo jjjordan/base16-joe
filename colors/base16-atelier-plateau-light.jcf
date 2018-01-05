@@ -1,5 +1,5 @@
 
-# base16 Atelier Plateau by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Plateau Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 .colors *
 
@@ -51,7 +51,7 @@
 =Include	$7272ca
 =Define		$8464c4
 =TODO		$a06e3b/$e7dfdf
-=Precondit	$8464c4
+=Precond	$8464c4
 
 =diff.AddLine	$4b8b8b/$e7dfdf
 =diff.ChgLine	$7e7777/$e7dfdf
@@ -59,7 +59,6 @@
 =diff.File	$ca4949
 =diff.FileNew	$4b8b8b
 =diff.Hunk	$7272ca
-
 
 .colors 256
 
@@ -111,7 +110,7 @@
 =Include	62
 =Define		97
 =TODO		130/188
-=Precondit	97
+=Precond	97
 
 =diff.AddLine	66/188
 =diff.ChgLine	243/188
@@ -119,5 +118,4 @@
 =diff.File	167
 =diff.FileNew	66
 =diff.Hunk	62
-
 
